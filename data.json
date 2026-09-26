@@ -1,0 +1,127 @@
+{
+  "campus": {
+    "name": "iCode Old Bridge",
+    "tagline": "Coding, robotics & STEM classes for kids",
+    "address": "207 Texas Rd, Old Bridge, NJ 08857",
+    "phone": "(732) 426-3325",
+    "email": "oldbridge@icodeschool.com",
+    "website": "https://icodeschool.com/old-bridge-nj/",
+    "hours": {
+      "monday": "8:00 AM - 5:00 PM",
+      "tuesday": "12:00 PM - 7:00 PM",
+      "wednesday": "2:00 PM - 7:00 PM",
+      "thursday": "12:00 PM - 7:00 PM",
+      "friday": "10:00 AM - 4:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "status": "opening_fall_2026",
+    "status_detail": "Our campus is under construction and opens Fall 2026. The Founding Families waitlist is open now \u2014 join for priority enrollment and early rates.",
+    "ages": "6-17",
+    "service_area": "Old Bridge, NJ and surrounding Middlesex County communities"
+  },
+  "programs": [
+    {
+      "id": "foundation-belt",
+      "name": "Foundation Belt",
+      "ages": "6-8",
+      "min_age": 6,
+      "max_age": 8,
+      "track": "coding",
+      "description": "Game development with Scratch, a beginner-friendly visual programming language. Kids build their own games and animations with block-based coding while learning variables, loops, and conditional statements.",
+      "duration": "One belt typically takes 8-9 months (about one school year).",
+      "status": "planned"
+    },
+    {
+      "id": "white-belt",
+      "name": "White Belt",
+      "ages": "8-11",
+      "min_age": 8,
+      "max_age": 11,
+      "track": "robotics",
+      "description": "Robotics program built on the VEX platform. Students model, create, and program robots to solve real-world problems, learning essential engineering, robotics, and design concepts plus 3D modeling.",
+      "duration": "One belt typically takes 8-9 months (about one school year).",
+      "status": "planned"
+    },
+    {
+      "id": "orange-belt",
+      "name": "Orange Belt",
+      "ages": "8-11",
+      "min_age": 8,
+      "max_age": 11,
+      "track": "coding",
+      "description": "Web development: students learn HTML, CSS, and JavaScript to build real websites, plus design and photography skills to make their pages come to life.",
+      "duration": "One belt typically takes 8-9 months (about one school year).",
+      "status": "planned"
+    },
+    {
+      "id": "yellow-belt",
+      "name": "Yellow Belt",
+      "ages": "9-12",
+      "min_age": 9,
+      "max_age": 12,
+      "track": "coding",
+      "description": "App development: from storyboarding to coding to marketing, students build a mobile or desktop app of their own, then collaborate on more complex open-source style projects.",
+      "duration": "One belt typically takes 8-9 months (about one school year).",
+      "status": "planned"
+    },
+    {
+      "id": "stem-camps",
+      "name": "STEM Camps",
+      "ages": "6-17",
+      "min_age": 6,
+      "max_age": 17,
+      "track": "camps",
+      "description": "Week-long immersive camps during summer, spring break, and school holidays. Full-day and half-day options with themes like game design, robotics, 3D printing, drones, and Minecraft modding.",
+      "duration": "One week per camp; full-day and half-day options.",
+      "status": "planned"
+    },
+    {
+      "id": "tech-clubs",
+      "name": "Tech Clubs",
+      "ages": "6-14",
+      "min_age": 6,
+      "max_age": 14,
+      "track": "clubs",
+      "description": "Weekly hands-on STEM sessions hosted at local schools \u2014 robotics, game design, and coding with peers.",
+      "duration": "Weekly sessions during the school year.",
+      "status": "planned"
+    }
+  ],
+  "faq": [
+    {
+      "q": "What ages does iCode Old Bridge serve?",
+      "a": "Ages 6-17, from early elementary through high school."
+    },
+    {
+      "q": "Does my child need coding experience?",
+      "a": "No. Beginners are welcome \u2014 students are matched to the right starting level, and no prior experience is needed for the Foundation Belt."
+    },
+    {
+      "q": "When does the Old Bridge campus open?",
+      "a": "Fall 2026. The campus is under construction now, and the Founding Families waitlist is open for priority enrollment and early rates."
+    },
+    {
+      "q": "How long does it take to complete a belt?",
+      "a": "One belt usually takes 8-9 months, roughly one school year. Students progress through belts as they master skills."
+    },
+    {
+      "q": "Can we try a class before enrolling?",
+      "a": "Yes \u2014 families can schedule a trial class. Join the waitlist and mention you'd like a trial, and the campus team will reach out."
+    },
+    {
+      "q": "Where is the campus?",
+      "a": "207 Texas Rd, Old Bridge, NJ 08857."
+    },
+    {
+      "q": "Do you offer camps?",
+      "a": "Yes \u2014 week-long STEM camps run during summer, spring break, and school holidays, with full-day and half-day options."
+    },
+    {
+      "q": "How much does it cost?",
+      "a": "Pricing will be announced closer to opening. Founding Families on the waitlist get early rates and priority enrollment \u2014 joining the waitlist is free."
+    }
+  ],
+  "privacy": "Privacy Policy \u2014 iCode Old Bridge Connector\nLast updated: September 26, 2026\n\nWhat we collect\n- When you join the Founding Families waitlist, we collect the parent/guardian\n  name, a contact (phone number or email address), the child's age, and the\n  programs you are interested in. Providing a child's name is optional.\n\nWhy we collect it\n- To contact you about the campus opening, enrollment priority, trial classes,\n  and programs matching your child's age and interests. Nothing else.\n\nWhat we do not do\n- We do not sell or share your information with third parties for marketing.\n- We do not collect payment information through this connector.\n\nStorage and retention\n- Waitlist records are stored securely and kept until the campus opens and\n  enrollment outreach is complete, or until you ask us to delete them.\n\nYour choices\n- Reply to any message from us, or call (732) 426-3325, to update or delete\n  your waitlist entry at any time.\n\nContact\n- iCode Old Bridge, 207 Texas Rd, Old Bridge, NJ 08857, (732) 426-3325.\n",
+  "terms": "Terms of Service \u2014 iCode Old Bridge Connector\nLast updated: September 26, 2026\n\nWhat this connector does\n- Provides information about the iCode Old Bridge campus (programs, schedule,\n  FAQs) and lets you join the Founding Families waitlist through Muse.\n\nCost\n- The connector is free. Joining the waitlist is free. No payments are\n  collected through this connector.\n\nWaitlist\n- Joining the waitlist expresses interest and gives you priority enrollment\n  updates. It does not guarantee enrollment or a specific start date.\n- Program details, schedules, and pricing are announced by the campus and may\n  change before opening.\n\nData\n- Waitlist information is handled as described in our Privacy Policy\n  (/privacy). You may ask us to update or delete your entry at any time via\n  oldbridge@icodeschool.com or (732) 426-3325.\n\nContact\n- iCode Old Bridge, 207 Texas Rd, Old Bridge, NJ 08857.\n"
+}
